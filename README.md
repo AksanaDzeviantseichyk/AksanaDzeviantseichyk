@@ -20,3 +20,8 @@
 - [Bug-Reports](https://github.com/AksanaDzeviantseichyk/BugReports)
 - [SQL Queries](https://github.com/AksanaDzeviantseichyk/SQL-Queries)
 - [Postman Collections](https://github.com/AksanaDzeviantseichyk/Postman-Collections)
+
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AksanaDzeviantseichyk&show_icons=true&theme=radical)
