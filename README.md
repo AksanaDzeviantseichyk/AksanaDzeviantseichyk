@@ -14,6 +14,9 @@
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 
+### Socials
+[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/aksana-dzeviantseichyk/)
+
 ### Testing Documentation
 - [Checklists](https://github.com/AksanaDzeviantseichyk/CheckLists)
 - [Test-Suites and Test-Cases](https://github.com/AksanaDzeviantseichyk/Test-Cases)
