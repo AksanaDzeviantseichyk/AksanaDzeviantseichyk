@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![Header](https://github.com/AksanaDzeviantseichyk/AksanaDzeviantseichyk/blob/main/assets/background_.png)]
 <!--
 **AksanaDzeviantseichyk/AksanaDzeviantseichyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
