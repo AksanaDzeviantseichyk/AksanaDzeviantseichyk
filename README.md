@@ -18,6 +18,7 @@
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/aksana-dzeviantseichyk/)
 
 ### Testing Documentation
+- [My Certificate](https://github.com/AksanaDzeviantseichyk/My-Certificate)
 - [Checklists](https://github.com/AksanaDzeviantseichyk/CheckLists)
 - [Test-Suites and Test-Cases](https://github.com/AksanaDzeviantseichyk/Test-Cases)
 - [Bug-Reports](https://github.com/AksanaDzeviantseichyk/BugReports)
