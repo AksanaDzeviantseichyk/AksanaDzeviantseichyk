@@ -4,7 +4,7 @@
 ##  
 
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1VDOd2XR0zDghtSCv0Fs_W-UZh1rVXX4q/view?usp=sharing)
+[Link to my CV](https://drive.google.com/file/d/1rhiE2SP5Q02d63VmmvKveOeLq4moPlZs/view?usp=sharing)
 
 [My Certificate](https://github.com/AksanaDzeviantseichyk/My-Certificate)
 
